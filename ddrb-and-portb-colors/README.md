@@ -2,11 +2,11 @@
 em uma velocidade na qual fosse possivel "emular" uma sensacao de intensidade na luz dos leds.
 
   Para facilitar a criacao de novas cores, foram criadas funcoes, aplicando o conhecimento aprendido em aula sobre DDR e PortB, tendo em vista tal fato, foram criadas as seguintes cores:
-# #VERMELHO:
+# VERMELHO:
 O LED vermelho e aceso e depois de 1000 microsegundos, apagado.
-# #VERDE:
+# VERDE:
 O LED verde e aceso e depois de 1000 microsegundos, apagado.
-# #AZUL:
+# AZUL:
 O LED azul e aceso e depois de 1000 microsegundos, apagado.
 # ROXO:
 O LED vermelho acende e apaga a cada 400 microsegundos e o LED azul acende e apaga a cada 1000 microsegundos.
