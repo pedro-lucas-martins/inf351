@@ -12,11 +12,11 @@ O LED azul e aceso e depois de 1000 microsegundos, apagado.
 O LED vermelho acende e apaga a cada 400 microsegundos e o LED azul acende e apaga a cada 1000 microsegundos.
 # CIANO: 
 O LED  azul acende e apaga a cada 400 microsegundos e o LED verde acende e apaga a cada 900 microsegundos.
-# LARANJA:#
+# LARANJA:
 O LED vermelho acende e apaga a cada 1000 microsegundos e o LED verde acende e apaga a cada 200 microsegundos.
 # ROSA:
 O LED vermelho acende e apaga a cada 400 microsegundos e o LED azul acende e apaga a cada 200 microsegundos.
-# AMARELO#: O LED vermelho acende e apaga a cada 650 microsegundos e o LED verde acende e apaga a cada 450 microsegundos.
+# AMARELO: O LED vermelho acende e apaga a cada 650 microsegundos e o LED verde acende e apaga a cada 450 microsegundos.
 
-#  A velocidade na qual os LED`s acendem e apagam sao muito rapidas, portanto imperceptiveis, "emulando" a alteracao da intensidade demonstrada pela cor, tornado-se possivel criar diferentes cores
+  A velocidade na qual os LED`s acendem e apagam sao muito rapidas, portanto imperceptiveis, "emulando" a alteracao da intensidade demonstrada pela cor, tornado-se possivel criar diferentes cores
 com a mistura das tres primeiras cores criadas.
