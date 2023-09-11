@@ -16,7 +16,8 @@ O LED  azul acende e apaga a cada 400 microsegundos e o LED verde acende e apaga
 O LED vermelho acende e apaga a cada 1000 microsegundos e o LED verde acende e apaga a cada 200 microsegundos.
 # ROSA:
 O LED vermelho acende e apaga a cada 400 microsegundos e o LED azul acende e apaga a cada 200 microsegundos.
-# AMARELO: O LED vermelho acende e apaga a cada 650 microsegundos e o LED verde acende e apaga a cada 450 microsegundos.
+# AMARELO: 
+O LED vermelho acende e apaga a cada 650 microsegundos e o LED verde acende e apaga a cada 450 microsegundos.
 
   A velocidade na qual os LED`s acendem e apagam sao muito rapidas, portanto imperceptiveis, "emulando" a alteracao da intensidade demonstrada pela cor, tornado-se possivel criar diferentes cores
 com a mistura das tres primeiras cores criadas.
