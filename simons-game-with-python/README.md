@@ -8,4 +8,4 @@ O codigo C foi refeito com intuito de adaptar o jogo, baseado no meu intendiment
 
 LINK PARA O VIDEO:
 
-[]https://drive.google.com/file/d/1Fb2WOBtdzhePcE4PuohjsvxEGIYCQsiM/view?usp=sharing
+ https://drive.google.com/file/d/1Fb2WOBtdzhePcE4PuohjsvxEGIYCQsiM/view?usp=sharing
